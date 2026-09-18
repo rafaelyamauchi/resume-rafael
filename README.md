@@ -1,7 +1,5 @@
 # Rafael Yamauchi (resume)
 
-[![HitCount](https://hits.dwyl.com/{username}/{project}.svg)](https://hits.dwyl.com/{rafaelyamauchi}/{resume-rafael})
-
 Projeto com o código-fonte do currículo online, disponível em: https://resume-rafael-cnybmswrp.vercel.app/
 
 ![Preview](https://github.com/rafaelyamauchi/resume-rafael/blob/master/Anotation.png?raw=true).
